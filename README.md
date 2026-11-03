@@ -19,6 +19,7 @@ Works on its own: you don't need Home Base or any other app.
 
 | | |
 |---|---|
+| **Downloader code** (on the TV) | **2354632** |
 | **[Setup-Fire-TV.bat](https://github.com/Scarpa86/fire-tv-scorebug/releases/latest/download/Setup-Fire-TV.bat)** | One click: installs ScoreBug and allows the overlay |
 | **[ScoreBug.apk](https://github.com/Scarpa86/fire-tv-scorebug/releases/latest/download/ScoreBug.apk)** | The app itself, if you'd rather install it another way |
 
@@ -28,6 +29,8 @@ Works on its own: you don't need Home Base or any other app.
 
 1. Turn on Developer Options if you don't see it: **Settings > My Fire TV > About**, highlight the TV's name and press **OK 7 times**.
 2. **Settings > My Fire TV > Developer Options > ADB debugging > ON.**
+
+*No computer?* Get **Downloader** from the app store, turn on **Developer Options > Install unknown apps > Downloader**, open Downloader, type **2354632**, choose **Go** and then **Install**. Everything works except the overlay, which Fire TV only lets the computer setup switch on. The first update also asks you to allow ScoreBug to install it.
 
 **On the Windows computer**
 
