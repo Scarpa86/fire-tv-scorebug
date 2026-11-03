@@ -4,6 +4,7 @@ Every score, always rolling. A full-screen LED-style scoreboard that scrolls thr
 
 - **Scoreboard:** two lanes of games scrolling sideways, in team colors with a lit-dot LED look. One or two games stay still, one on top and one below. Shows down & distance in football and bases, count and outs in baseball. A game flashes when someone scores.
 - **Nothing live?** It shows each team's most recent game and final score instead.
+- **Fight Night:** while a UFC or PFL card is on, the scoreboard becomes a fight screen: the two fighters in the cage with records and flags, the round and clock, and live stats side by side (strikes, takedowns, knockdowns, submission attempts, control time). Alongside: every finished bout with how it ended, and the rest of the card. It stays up as a recap for a few hours after the main event.
 - **Overlay:** a news-style ticker banner across the top (or bottom) of the screen, over any app: a LIVE tag and the live games scrolling past. When nothing is live it shows the latest finals.
 - **Sports:** NFL, NBA & WNBA, MLB, NHL, college football, college basketball (men's and women's), soccer (MLS, NWSL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League) and fight night (UFC, PFL).
 - Live games refresh every 2 seconds. Scores come from ESPN's public scoreboards.
