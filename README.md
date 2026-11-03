@@ -4,6 +4,8 @@ Every score, always rolling. A full-screen LED-style scoreboard that scrolls thr
 
 - **Scoreboard:** two lanes of games scrolling sideways, in team colors with a lit-dot LED look. One or two games stay still, one on top and one below. Shows down & distance in football and bases, count and outs in baseball. A game flashes when someone scores.
 - **Nothing live?** It shows each team's most recent game and final score instead.
+- **NFL score alerts:** on the scoreboard, a touchdown, field goal, safety or 2-point conversion pops up full screen, flashing the scoring team's colors with the new score and the play. Press **Menu** on the scoreboard to see a preview.
+- **Fantasy tracker:** with NFL picked, a banner along the bottom of the scoreboard scrolls the week's top 25 fantasy scorers (PPR), updating during games.
 - **Fight Night:** UFC and PFL get their own screen instead of scrolling. While a card is on: the two fighters in the cage with records and flags, the round and clock, and live stats side by side (strikes, takedowns, knockdowns, submission attempts, control time), plus every finished bout with how it ended and the rest of the card. With Fight Night as your only sport, between cards it shows the next card: the main event, when it starts, and every bout.
 - **Overlay:** a news-style ticker banner across the top (or bottom) of the screen, over any app: a LIVE tag and the live games scrolling past (fights stay on the Fight Night screen). When nothing is live it shows the latest finals.
 - **Sports:** NFL, NBA & WNBA, MLB, NHL, college football, college basketball (men's and women's), soccer (MLS, NWSL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League) and fight night (UFC, PFL).
@@ -49,7 +51,7 @@ The setup tool is what lets the score banner show over other apps: Fire TV has n
 ## Using it
 
 - **Pick your sports:** press **Select** on a card to turn it on or off, or use **Select All**.
-- **Start Score Bug** opens the full-screen scoreboard. On the scoreboard, **Left / Right** change which way the games scroll, **Up / Down** change the speed, and **Back** returns to the start page.
+- **Start Score Bug** opens the full-screen scoreboard. On the scoreboard, **Left / Right** change which way the games scroll, **Up / Down** change the speed, **Menu** previews an NFL score alert, and **Back** returns to the start page.
 - If you leave the app while the scoreboard is showing, it opens straight into the scoreboard next time. Handy for a TV or monitor that only shows scores.
 - **Overlay:** switch it on, then pick its **position** (top or bottom) and **size**. It runs over other apps and steps aside while ScoreBug itself is open.
 
