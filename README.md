@@ -2,13 +2,14 @@
 
 Every score, always rolling. A full-screen LED-style scoreboard that scrolls through every live game in the sports you pick, plus a scrolling score banner that can run across the top of the screen over whatever you're watching.
 
-- **Scoreboard:** two lanes of games scrolling sideways, in team colors with a lit-dot LED look. One or two games stay still, one on top and one below. Shows down & distance in football and bases, count and outs in baseball. A game flashes when someone scores.
+- **Scoreboard:** one to five rows of games scrolling sideways, in team colors with a lit-dot LED look. With no more games than rows, each game sits still in its own row. Shows down & distance in football and bases, count and outs in baseball. A game flashes when someone scores.
 - **Nothing live?** It shows each team's most recent game and final score instead.
-- **Score alerts:** in football, baseball and hockey, when a team scores the scoreboard stays put while the background behind it flashes in the team's colors, and a thin banner drops in at the top: what happened and the points (TOUCHDOWN +7, GOAL +1, 2-RUN HOMER +2), the team, who scored and the new score. Press **Menu** on the scoreboard to see a preview.
+- **NFL score alerts:** on the scoreboard, a touchdown, field goal, safety or 2-point conversion pops up full screen, flashing the scoring team's colors with the new score and the play. Press **Menu** on the scoreboard to see a preview.
 - **Fantasy tracker:** with NFL picked, a banner along the bottom of the scoreboard scrolls the week's top 25 fantasy scorers (PPR), updating during games.
 - **Fight Night:** UFC and PFL get their own screen instead of scrolling. While a card is on: the two fighters in the cage with records and flags, the round and clock, and live stats side by side (strikes, takedowns, knockdowns, submission attempts, control time), plus every finished bout with how it ended and the rest of the card. With Fight Night as your only sport, between cards it shows the next card: the main event, when it starts, and every bout.
 - **Overlay:** a news-style ticker banner across the top (or bottom) of the screen, over any app: a LIVE tag and the live games scrolling past (fights stay on the Fight Night screen). When nothing is live it shows the latest finals.
 - **Sports:** NFL, NBA & WNBA, MLB, NHL, college football, college basketball (men's and women's), soccer (MLS, NWSL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League) and fight night (UFC, PFL).
+- **More Sports dropdown:** cricket (internationals, IPL, Big Bash, Women's Big Bash, domestic), more soccer (Liga MX, Europa and Conference League, Championship, FA Cup, Carabao Cup, Scottish Prem, Eredivisie, Primeira Liga, Brasileirão, Liga Argentina, USL, Nations League, World Cup), rugby (Six Nations, Premiership, URC, Top 14, Champions Cup, Super Rugby, NRL), AFL, CFL, UFL, college hockey and baseball, Pro Lacrosse and NBL.
 - Live games refresh every 2 seconds. Scores come from ESPN's public scoreboards.
 
 Works on its own: you don't need Home Base or any other app.
@@ -50,8 +51,10 @@ The setup tool is what lets the score banner show over other apps: Fire TV has n
 
 ## Using it
 
-- **Pick your sports:** press **Select** on a card to turn it on or off, or use **Select All**.
-- **Start Score Bug** opens the full-screen scoreboard. On the scoreboard, **Left / Right** change which way the games scroll, **Up / Down** change the speed, **Menu** previews a score alert, and **Back** returns to the start page.
+- **Pick your sports:** press **Select** on a card to turn it on or off, or use **Select All**. For anything without a card (cricket, rugby, more soccer...), open **More Sports** and turn leagues on there.
+- **Pick leagues:** on Basketball, College Basketball, Soccer or Fight Night, **hold Select** to choose which of its leagues roll (say, Premier League and Champions League only). The card remembers your picks when you turn it off and on again.
+- **Rows:** under Settings, choose **1 to 5** rows of games on the scoreboard. Each count is sized to fill the screen: one big row to read across the room, up to five compact rows to see more games at once.
+- **Start Score Bug** opens the full-screen scoreboard. On the scoreboard, **Left / Right** change which way the games scroll, **Up / Down** change the speed, **Rewind / Fast-forward** remove or add a row, **Menu** previews an NFL score alert, and **Back** returns to the start page.
 - If you leave the app while the scoreboard is showing, it opens straight into the scoreboard next time. Handy for a TV or monitor that only shows scores.
 - **Overlay:** switch it on, then pick its **position** (top or bottom) and **size**. It runs over other apps and steps aside while Roundup itself is open.
 
