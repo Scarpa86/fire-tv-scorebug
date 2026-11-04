@@ -53,13 +53,13 @@ The setup tool is what lets the score banner show over other apps: Fire TV has n
 
 ## Using it
 
-- **Pick your sports:** press **Select** on a card to turn it on or off, or use **Select All**. For anything without a card (cricket, rugby, more soccer...), open **More Sports** and turn leagues on there.
-- **Pick your teams:** press **Down** to reach **Your Teams**, choose a sport (and league), then press **Select** on a team to check it.
+- **Pick your sports:** press **Select** on a card to turn it on or off, or use **Select All**. For anything without a card (cricket, rugby, more soccer...), open **More Sports** and turn leagues on there (**Clear All** in that menu switches them all off).
+- **Pick your teams:** press **Down** to reach **Your Teams**, choose a sport (and league), then press **Select** on a team to check it. **Clear All** at the top of the section removes every favorite (it asks first).
 - **Pick leagues:** on Basketball, College Basketball, Soccer or Fight Night, **hold Select** to choose which of its leagues roll (say, Premier League and Champions League only). The card remembers your picks when you turn it off and on again.
-- **Rows:** under Settings, choose **1 to 5** rows of games on the scoreboard. Each count is sized to fill the screen: one big row to read across the room, up to five compact rows to see more games at once.
+- **Rows:** under Options, choose **1 to 5** rows of games on the scoreboard. Each count is sized to fill the screen: one big row to read across the room, up to five compact rows to see more games at once.
 - **Start Roundup** opens the full-screen scoreboard. On the scoreboard, **Left / Right** change which way the games scroll, **Up / Down** change the speed, **Rewind / Fast-forward** remove or add a row, **Menu** previews an NFL score alert, and **Back** returns to the start page.
 - If you leave the app while the scoreboard is showing, it opens straight into the scoreboard next time. Handy for a TV or monitor that only shows scores.
-- **Settings gear** (top right): change the **language**, send **Help & Ideas** (questions, ideas, bug reports), or **check for updates**. An amber dot on the gear means a new version is out.
+- **Settings gear** (top right): change the **language**, send **Help & Ideas** (questions, ideas, bug reports), see the remote's **Controls**, or **check for updates**. When a new version is out, Roundup asks once whether to update; after that, an amber dot on the gear is the reminder.
 - **Overlay:** switch it on, then pick its **position** (top or bottom) and **size**. It runs over other apps and steps aside while Roundup itself is open.
 
 ## Uninstall
