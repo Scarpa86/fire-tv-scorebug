@@ -10,6 +10,7 @@ Every score, always rolling. A full-screen LED-style scoreboard that scrolls thr
 - **Overlay:** a news-style ticker banner across the top (or bottom) of the screen, over any app: a LIVE tag and the live games scrolling past (fights stay on the Fight Night screen). When nothing is live it shows the latest finals.
 - **Sports:** NFL, NBA & WNBA, MLB, NHL, college football, college basketball (men's and women's), soccer (MLS, NWSL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League) and fight night (UFC, PFL).
 - **More Sports dropdown:** cricket (internationals, IPL, Big Bash, Women's Big Bash, domestic), more soccer (Liga MX, Europa and Conference League, Championship, FA Cup, Carabao Cup, Scottish Prem, Eredivisie, Primeira Liga, Brasileirão, Liga Argentina, USL, Nations League, World Cup), rugby (Six Nations, Premiership, URC, Top 14, Champions Cup, Super Rugby, NRL), AFL, CFL, UFL, college hockey and baseball, Pro Lacrosse and NBL.
+- **Your Teams:** pick favorite teams in football, basketball, baseball, hockey, college football, college basketball and soccer. Their games always show (first), even when their sport is turned off.
 - Live games refresh every 2 seconds. Scores come from ESPN's public scoreboards.
 
 Works on its own: you don't need Home Base or any other app.
@@ -52,6 +53,7 @@ The setup tool is what lets the score banner show over other apps: Fire TV has n
 ## Using it
 
 - **Pick your sports:** press **Select** on a card to turn it on or off, or use **Select All**. For anything without a card (cricket, rugby, more soccer...), open **More Sports** and turn leagues on there.
+- **Pick your teams:** press **Down** to reach **Your Teams**, choose a sport (and league), then press **Select** on a team to check it.
 - **Pick leagues:** on Basketball, College Basketball, Soccer or Fight Night, **hold Select** to choose which of its leagues roll (say, Premier League and Champions League only). The card remembers your picks when you turn it off and on again.
 - **Rows:** under Settings, choose **1 to 5** rows of games on the scoreboard. Each count is sized to fill the screen: one big row to read across the room, up to five compact rows to see more games at once.
 - **Start Score Bug** opens the full-screen scoreboard. On the scoreboard, **Left / Right** change which way the games scroll, **Up / Down** change the speed, **Rewind / Fast-forward** remove or add a row, **Menu** previews an NFL score alert, and **Back** returns to the start page.
